@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:modal_progress_hud_nsn/modal_progress_hud_nsn.dart';
 import 'package:store_app/models/product_model.dart';
-import 'package:store_app/servecies/update_product.dart';
+import 'package:store_app/services/update_product.dart';
 import 'package:store_app/widgets/custombutton.dart';
 import 'package:store_app/widgets/customtextfield.dart';
 
